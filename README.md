@@ -1,5 +1,8 @@
 # two team counter
 
+![first menu](https://github.com/DQuomsieh/two_team_counter/blob/master/firstpic.png)
+![second menu](https://github.com/DQuomsieh/two_team_counter/blob/master/secondpic.png)
+
 a java based program for keeping score between two teams
 design is based on gnome calculator 
 
