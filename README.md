@@ -8,9 +8,11 @@ design is based on gnome calculator
 down the repository and run the twoTeamCounter.jar file
 
 j = +1 for team 1
+
 n = -1 for team 1
 
 k = +1 for team 2
+
 m = -1 for team 2
 
 # known issues
