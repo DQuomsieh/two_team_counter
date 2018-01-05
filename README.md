@@ -1,11 +1,12 @@
 ## two team counter
+`
 
 a java based program for keeping score between two teams
 design is based on gnome calculator 
 
 # how to use
 
-down the repository and run the twoTeamCounter.jar file
+download the repository and run the twoTeamCounter.jar file
 
 j = +1 for team 1
 
